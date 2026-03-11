@@ -4,3 +4,4 @@
 ;;; PP2 -- 05_exercises.lisp -- řešení úloh z cvičení 5
 ;;;
 
+
